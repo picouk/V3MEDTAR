@@ -8,7 +8,7 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 380680065445;
+global.pairingNumber = 380675008054;
 global.owner = [
   ['22242203253', '𝐌𝐄𝐃 𝐓𝐀𝐑', true],
   ['380680065445', 'Owner 2', true],
